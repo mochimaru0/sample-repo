@@ -7,3 +7,4 @@ include: "/views/*.view.lkml"                # include all views in the views/ f
 # # Select the views that should be a part of this model,
 # # and define the joins that connect them together.
 explore:  view_test{}
+##
